@@ -36,8 +36,8 @@ a{
 body{
     font-family: 'Poppins', sans-serif;
 }
-.logo {
-  img: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5))
+. {
+  background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5))
   , url('1000050701.jpg') no-repeat center center/cover;
   text-align: center;
   padding: 6rem 2rem;
